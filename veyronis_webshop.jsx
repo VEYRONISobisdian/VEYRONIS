@@ -3,9 +3,9 @@ import { Button } from "@/components/ui/button";
 import { ShoppingCart } from "lucide-react";
 
 const products = [
-  { id: 1, name: "Veyronis Noir", price: "€149", image: "/product.jpg" },
-  { id: 2, name: "Veyronis Shadow", price: "€149", image: "/product.jpg" },
-  { id: 3, name: "Veyronis Elite", price: "€179", image: "/product.jpg" }
+  { id: 1, name: "Veyronis Noir", price: "€79,99", image: "/product.jpg" },
+  { id: 2, name: "Veyronis Shadow", price: "€79,99", image: "/product.jpg" },
+  { id: 3, name: "Veyronis Elite", price: "€79,99", image: "/product.jpg" }
 ];
 
 export default function VeyronisStore() {
